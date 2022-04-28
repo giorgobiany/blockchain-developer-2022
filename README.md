@@ -1,5 +1,5 @@
 # blockchain-developer-2022
-A project associated with the Blockchain Developer I am taking right now
+A project associated with the Blockchain Developer course I am taking right now
 
 This is my first GitHub project and literally my first coding experience.
 I am a product marketer with 5+ years of experience working in SaaS companies. 
